@@ -8,26 +8,6 @@
 
 ---
 
-# 🎃 SlaydDev — Code, Create & Connect This Halloween!
-
-Looking for a place to learn, share, and collaborate?  
-Join **SlaydDev**, a growing hub for developers, designers, and creatives.  
-
-👻 Halloween Special: The **first 100 members** will receive a free HTML script as a treat!  
-
-✨ Inside you’ll find:
-- 💻 Dev & design discussions & resources  
-- 🎨 A place to showcase your work & get feedback  
-- 🤝 Opportunities to collaborate on projects  
-- 🎉 Fun seasonal events & a supportive community  
-
-Whether you’re a beginner or experienced, you’ll feel right at home.  
-Come join us and let’s build something awesome together!  
-
-🔗 Invite: [dsc.gg/slayddev](https://dsc.gg/slayddev)
-
----
-
 ## 🧠 About Me
 
 I build immersive websites, mini-games, and stealthy blog workflows.  
