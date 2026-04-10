@@ -1,5 +1,5 @@
 # 👋 Hey, I’m Captain.EXE (SlaydDev)  
-> Web dev · Game designer
+> Full stack dev
 
 ![Commits](https://img.shields.io/badge/Commits-8.4k%2B-blue?logo=git)
 ![Deployments](https://img.shields.io/badge/Deployments-500%2B-success?logo=vercel)
@@ -10,13 +10,13 @@
 
 ## 🧠 About Me
 
-I build immersive websites, mini-games, and stealthy blog workflows.  
-Every commit is a precision strike. Every deployment, a reveal.  
+I build immersive websites, mini-games, and complex workflows.  
+
 I specialize in:
 - 🎮 Game development & 3D modeling (Blender)
 - 🧩 Web automation & badge logic
-- 🎬 Cinematic repo branding
-- 🔧 Device optimization & privacy-aware diagnostics
+- 🎬 Cinematic cut making
+- 🔧 Device optimization
 
 ---
 
@@ -24,10 +24,9 @@ I specialize in:
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [website](https://github.com/SlaydDev/website) | Personal site with interactive animations, counters, and mini-games | HTML, JS, CSS |
-| [HTML-library](https://github.com/SlaydDev/HTML-library) | Curated snippets for devs and designers | HTML, CSS |
-| [staff-bot](https://github.com/SlaydDev/staff-bot) | Discord bot with moderation + AI features | JavaScript |
-| [pro-auth](https://github.com/SlaydDev/pro-auth) | Browser extension for 2FA via QR or secret key | JavaScript |
+| [website](https://github.com/SlaydDev/website) | Personal site | HTML, JS, CSS |
+| [HTML-library](https://github.com/SlaydDev/HTML-library) | Code snippets for devs and designers | HTML (more coming soon!)|
+| [pro-auth](https://github.com/SlaydDev/pro-auth) | Browser extension for 2FA via QR or secret key | JavaScript (Under Development)|
 
 ---
 
@@ -43,9 +42,6 @@ I specialize in:
 ## 🛡️ Dev Philosophy
 
 > “Every push should feel like a cinematic reveal.”
-
-I don’t just build—I perform.  
-My repos are crafted for impact, optimized for awe, and designed to impress.
 
 ---
 
