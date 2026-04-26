@@ -3,7 +3,7 @@
 
 ![Uptime](https://img.shields.io/badge/Uptime-24/7-brightgreen?)
 ![Commits](https://img.shields.io/badge/Commits-8.4k%2B-blue?logo=git)
-[![Live](https://img.shields.io/badge/Live_Now-CaptainEXE_Radio-red?logo=youtube)](https://www.youtube.com/@itscaptainexe/live)
+[![Live](https://img.shields.io/badge/Live_Now-red?logo=youtube)](https://www.youtube.com/@itscaptainexe/live)
 
 ---
 
