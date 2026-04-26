@@ -1,53 +1,53 @@
 # 👋 Hey, I’m Captain.EXE (SlaydDev)  
-> Full stack dev
+> **Lead Developer @ Slayd Development | Artist | System Architect**
 
+![Uptime](https://img.shields.io/badge/Stream_Uptime-24/7-brightgreen?logo=youtube&logoColor=white)
 ![Commits](https://img.shields.io/badge/Commits-8.4k%2B-blue?logo=git)
-![Deployments](https://img.shields.io/badge/Deployments-500%2B-success?logo=vercel)
-![Live Site](https://img.shields.io/badge/slayddev.vercel.app-000?logo=vercel&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Fully%20Operational-brightgreen?style=flat-square)
+![Status](https://img.shields.io/badge/Status-OAC_Pending-orange?style=flat-square)
+![Live](https://img.shields.io/badge/Live_Now-CaptainEXE_Radio-red?logo=youtube)
 
 ---
 
-## 🧠 About Me
+## 🧠 The Mission
 
-I build immersive websites, mini-games, and complex workflows.  
+I build high-performance systems, automation tools, and immersive digital experiences. Currently scaling **Slayd Development** and maintaining the **CaptainEXE 24/7 4K Live Music Stream** ecosystem.
 
-I specialize in:
-- 🎮 Game development & 3D modeling (Blender)
-- 🧩 Web automation & badge logic
-- 🎬 Cinematic cut making
-- 🔧 Device optimization
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [website](https://github.com/SlaydDev/website) | Personal site | HTML, JS, CSS |
-| [HTML-library](https://github.com/SlaydDev/HTML-library) | Code snippets for devs and designers | HTML (more coming soon!)|
-| [pro-auth](https://github.com/SlaydDev/pro-auth) | Browser extension for 2FA via QR or secret key | JavaScript (Under Development)|
+**Specializing in:**
+- 🛠️ **Full-Stack Systems:** Scalable integrations using JS, Java, and Lua.
+- 📡 **Automated Infrastructure:** GitHub Actions heartbeats & persistent stream hosting.
+- 🎵 **Digital Media:** Producing instrumental music.
 
 ---
 
-## 🧪 Experimental Zone
+## 📡 Live Infrastructure
 
-- Blog publishing via Google Docs + badge mapping  
-- GitHub Discussions with stealth triggers  
-- Vercel deployments patched for cinematic previews  
-- Repo layouts designed for dramatic intros
+| Project | Role | Status |
+| :--- | :--- | :--- |
+| [**CaptainEXE Radio**](https://youtube.com/@itscaptainexe) | 24/7 Music Streams, Programming Videos + | 🟢 Operational |
+| [**BatteryFlux**](https://github.com/SlaydDev) | System Monitoring Tool | 🧪 Beta (Testers Only Access) |
+| [**SteadyPing**](https://github.com/SlaydDev/SteadyPing) | Heartbeat & Uptime Monitoring | 🚀 Live |
+
+---
+
+## 🚀 Featured Work
+
+| Repo | Description | Tech Stack |
+| :--- | :--- | :--- |
+| [**Slayd-Web**](https://slayddev.vercel.app) | Official Hub for Slayd Development | HTML, CSS, JS |
+| [**HTML-Library**](https://github.com/SlaydDev/HTML-library) | Open-source snippets for modern UI/UX | Frontend Core |
+| [**Pro-Auth**](https://github.com/SlaydDev/pro-auth) | Browser-based 2FA via QR/Secret Key | JavaScript |
 
 ---
 
 ## 🛡️ Dev Philosophy
 
-> “Every push should feel like a cinematic reveal.”
+> *"Code shouldn't just run; it should perform. Every push is a cinematic reveal."*
 
 ---
 
-## 📫 Contact
+## 📫 Connect & Collaborate
 
-Want to collaborate or just say hi?  
-Drop by [slayddev.vercel.app](https://slayddev.vercel.app) or open an issue on any repo.
+- **YouTube:** [@itscaptainexe](https://youtube.com/@itscaptainexe)
+- **Web:** [slayddev.vercel.app](https://slayddev.vercel.app)
 
 ---
