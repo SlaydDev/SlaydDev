@@ -1,52 +1,64 @@
-# 👋 Hey, I’m Captain.EXE (SlaydDev)  
-> **Lead Developer @ Slayd Development | Artist | System Architect**
+![Slayd Development Shutdown](https://img.shields.io/badge/Slayd%20Development%20Has%20Been%20Shutdown-%20Migrated%20to%20CaptainEXE%20Studios-red?style=for-the-badge)
+
+# 👋 Hey, I’m Captain.EXE
+
+> **Independent Developer | System Architect | Digital Creator**
 
 ![Uptime](https://img.shields.io/badge/Uptime-24/7-brightgreen?)
 ![Commits](https://img.shields.io/badge/Commits-8.4k%2B-blue?logo=git)
-[![Live](https://img.shields.io/badge/Live_Now-red?logo=youtube)](https://www.youtube.com/@itscaptainexe/live)
+[![Live](https://img.shields.io/badge/Youtube-red?logo=youtube)](https://www.youtube.com/@itscaptainexe/live)
 
 ---
 
-## 🧠 The Mission
+## 🧠 About Me
 
-I build high-performance systems, automation tools, and immersive digital experiences. Currently scaling **Slayd Development** and maintaining the **CaptainEXE 24/7 4K Live Music Stream** ecosystem.
+I build high-performance systems, automation tools, interactive web experiences, and creative digital projects.
 
-**Specializing in:**
-- 🛠️ **Full-Stack Systems:** Scalable integrations using JS, Java, and Lua.
-- 📡 **Automated Infrastructure:** GitHub Actions heartbeats & persistent stream hosting.
-- 🎵 **Digital Media:** Producing instrumental music.
+Currently focused on expanding the **CaptainEXE** ecosystem through development projects, live infrastructure, experimental software, and long-running creative systems.
 
 ---
 
-## 📡 Live Infrastructure
+## ⚙️ Areas of Focus
 
-| Project | Role | Status |
-| :--- | :--- | :--- |
-| [**CaptainEXE Radio**](https://youtube.com/@itscaptainexe) | 24/7 Music Streams, Programming Videos + | 🟢 Operational |
-| [**BatteryFlux**](https://github.com/SlaydDev) | System Monitoring Tool | 🧪 Beta (Testers Only Access) |
-| [**SteadyPing**](https://github.com/SlaydDev/SteadyPing) | Heartbeat & Uptime Monitoring | 🚀 Live |
+* 🛠️ **Full-Stack Development:** Building scalable systems using JavaScript, Java, Lua, and web technologies.
+* 📡 **Automation & Infrastructure:** Persistent hosting, uptime systems, GitHub Actions automation, and monitoring tools.
+* 🎵 **Digital Media & Streaming:** Maintaining the CaptainEXE 24/7 live music and content ecosystem.
+* 🎨 **Creative Development:** Interactive websites, UI systems, visual effects, and experimental concepts.
+
+---
+
+## 📡 Active Projects
+
+| Project                                                       | Description                                                    | Status         |
+| :------------------------------------------------------------ | :------------------------------------------------------------- | :------------- |
+| [**CaptainEXE Radio**](https://youtube.com/@itscaptainexe)    | 24/7 music streams, programming content, and creative projects | 🟢 Operational |
+| [**BatteryFlux**](https://github.com/itscaptainexe)           | Advanced monitoring and system analytics platform              | 🧪 Beta        |
+| [**SteadyPing**](https://github.com/itscaptainexe/SteadyPing) | Stable ultrasonic sensor processing library for Arduino        | 🚀 Active      |
 
 ---
 
 ## 🚀 Featured Work
 
-| Repo | Description | Tech Stack |
-| :--- | :--- | :--- |
-| [**Slayd-Web**](https://slayddev.vercel.app) | Official Hub for Slayd Development | HTML, CSS, JS |
-| [**HTML-Library**](https://github.com/SlaydDev/HTML-library) | Open-source snippets for modern UI/UX | Frontend Core |
-| [**Pro-Auth**](https://github.com/SlaydDev/pro-auth) | Browser-based 2FA via QR/Secret Key | JavaScript |
+| Repository                                                        | Description                                         | Stack         |
+| :---------------------------------------------------------------- | :-------------------------------------------------- | :------------ |
+| [**CaptainEXE Website**](https://captainexe.vercel.app)           | Official personal hub and experimental web platform | HTML, CSS, JS |
+| [**HTML-Library**](https://github.com/itscaptainexe/HTML-library) | Reusable open-source UI and frontend snippets       | Frontend      |
+| [**Pro-Auth**](https://github.com/itscaptainexe/pro-auth)         | Browser-based authentication system with QR support [BETA] | JavaScript    |
 
 ---
 
-## 🛡️ Dev Philosophy
+## 🛡️ Development Philosophy
 
-> *"Code shouldn't just run; it should perform. Every push is a cinematic reveal."*
+> *"keep it raw, focused and beutiful "*
+
+---
+
+## 📫 Connect
+
+* **YouTube:** [@itscaptainexe](https://youtube.com/@itscaptainexe)
+* **Website:** [captainexe.vercel.app](https://captainexe.vercel.app)
+* **GitHub:** [github.com/itscaptainexe](https://github.com/itscaptainexe)
 
 ---
 
-## 📫 Connect & Collaborate
-
-- **YouTube:** [@itscaptainexe](https://youtube.com/@itscaptainexe)
-- **Web:** [slayddev.vercel.app](https://slayddev.vercel.app)
-
----
+Building systems, experimenting with ideas, and shipping projects one commit at a time.
