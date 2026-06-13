@@ -14,8 +14,6 @@
 
 I build high-performance systems, automation tools, interactive web experiences, and creative digital projects.
 
-Currently focused on expanding the **CaptainEXE** ecosystem through development projects, live infrastructure, experimental software, and long-running creative systems.
-
 ---
 
 ## ⚙️ Areas of Focus
@@ -49,7 +47,7 @@ Currently focused on expanding the **CaptainEXE** ecosystem through development 
 
 ## 🛡️ Development Philosophy
 
-> *"keep it raw, focused and beutiful "*
+> *"build with intention"*
 
 ---
 
@@ -61,4 +59,4 @@ Currently focused on expanding the **CaptainEXE** ecosystem through development 
 
 ---
 
-Building systems, experimenting with ideas, and shipping projects one commit at a time.
+Experimenting with ideas, and shipping projects one commit at a time.
